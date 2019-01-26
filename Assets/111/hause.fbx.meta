@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 58718fd7754ad4a4da68652181afd235
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beton
+    100002: beton_2
+    100004: dekor
+    100006: glass
+    100008: //RootNode
+    100010: krysha
+    100012: lamp
+    100014: metall
+    100016: plitka
+    100018: pol
+    100020: steni
+    100022: window
+    100024: wood
+    100026: gazon
+    400000: beton
+    400002: beton_2
+    400004: dekor
+    400006: glass
+    400008: //RootNode
+    400010: krysha
+    400012: lamp
+    400014: metall
+    400016: plitka
+    400018: pol
+    400020: steni
+    400022: window
+    400024: wood
+    400026: gazon
+    2300000: beton
+    2300002: beton_2
+    2300004: dekor
+    2300006: glass
+    2300008: krysha
+    2300010: lamp
+    2300012: metall
+    2300014: plitka
+    2300016: pol
+    2300018: steni
+    2300020: window
+    2300022: wood
+    2300024: gazon
+    3300000: beton
+    3300002: beton_2
+    3300004: dekor
+    3300006: glass
+    3300008: krysha
+    3300010: lamp
+    3300012: metall
+    3300014: plitka
+    3300016: pol
+    3300018: steni
+    3300020: window
+    3300022: wood
+    3300024: gazon
+    4300000: plitka
+    4300002: pol
+    4300004: window
+    4300006: lamp
+    4300008: metall
+    4300010: dekor
+    4300012: wood
+    4300014: beton_2
+    4300016: beton
+    4300018: steni
+    4300020: glass
+    4300022: krysha
+    4300024: gazon
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: 370c433316730214b94102e7c94db3af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton
+    second: {fileID: 2100000, guid: 9f98fc0c16ed8394389e3447af55c963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beton_2
+    second: {fileID: 2100000, guid: 324402499c5e8e6488111efa93ac4129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dekor
+    second: {fileID: 2100000, guid: de54709e2a91c9442868a72cd7904033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gazon
+    second: {fileID: 2100000, guid: 901b2fb95c956644c9ec2ab38dafe238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krysha
+    second: {fileID: 2100000, guid: ba2c3df3cf0310e4a852694e149bd00d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamp
+    second: {fileID: 2100000, guid: b61f52653454fbf48891cd0d306bd765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matall
+    second: {fileID: 2100000, guid: 52342be0e71df6d4d9a5469449da441f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plitka
+    second: {fileID: 2100000, guid: 5ddae7bb87a55c94197610dff6b94bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pol
+    second: {fileID: 2100000, guid: 6110f9bf322807e4d91b4f316355edc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steni
+    second: {fileID: 2100000, guid: c53620ed3bb282345a47accbc612ed5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window
+    second: {fileID: 2100000, guid: 709535f1561ff7f4aacb8460c1986cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 92ee687fe23383443a7a85452616f059, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

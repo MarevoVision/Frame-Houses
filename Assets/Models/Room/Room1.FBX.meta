@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 6086f8bc6e9feb54b93fe36365f3df4a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balkon
+    100002: Camera
+    100004: Clock
+    100006: Door
+    100008: DoorEkran
+    100010: Flomasters
+    100012: Glass
+    100014: Glass001
+    100016: Glass2
+    100018: Karkas
+    100020: Kreslo
+    100022: Object002
+    100024: Plane003
+    100026: //RootNode
+    100028: Rozetka
+    100030: top
+    100032: Top Details
+    100034: tv
+    100036: tv karkas
+    100038: WAll002_LOD001
+    100040: Wall003_LOD001
+    100042: Walltv001_LOD001
+    100044: Window panel
+    100046: Windows
+    100048: WoodElements
+    100050: Box001
+    100052: Box002
+    100054: Box003
+    100056: Box004
+    100058: Kreslo001
+    100060: Kreslo002
+    100062: Kreslo003
+    100064: Kreslo004
+    100066: Kreslo005
+    100068: Kreslo006
+    100070: Kreslo007
+    100072: Mask
+    400000: balkon
+    400002: Camera
+    400004: Clock
+    400006: Door
+    400008: DoorEkran
+    400010: Flomasters
+    400012: Glass
+    400014: Glass001
+    400016: Glass2
+    400018: Karkas
+    400020: Kreslo
+    400022: Object002
+    400024: Plane003
+    400026: //RootNode
+    400028: Rozetka
+    400030: top
+    400032: Top Details
+    400034: tv
+    400036: tv karkas
+    400038: WAll002_LOD001
+    400040: Wall003_LOD001
+    400042: Walltv001_LOD001
+    400044: Window panel
+    400046: Windows
+    400048: WoodElements
+    400050: Box001
+    400052: Box002
+    400054: Box003
+    400056: Box004
+    400058: Kreslo001
+    400060: Kreslo002
+    400062: Kreslo003
+    400064: Kreslo004
+    400066: Kreslo005
+    400068: Kreslo006
+    400070: Kreslo007
+    400072: Mask
+    2100000: Panorama
+    2100002: Glass
+    2100004: Plastic
+    2100006: top
+    2100008: 'Material #103444'
+    2100010: Pol
+    2100012: Detail
+    2100014: Karkas
+    2100016: Wood
+    2100018: Balkon
+    2100020: tv
+    2100022: tv2
+    2100024: tv1
+    2100026: Rozetki
+    2100028: WindowsPanel
+    2100030: Kreslo
+    2100032: DoorEkran
+    2100034: Clock
+    2100036: Flomasters
+    2100038: Wall
+    2100040: 'Material #103432'
+    2100042: 'Material #103501'
+    2100044: 'Material #103505'
+    2100046: 'Material #103504'
+    2100048: 'Material #103506'
+    2100050: 'Material #103503'
+    2100052: 'Material #103502'
+    2300000: balkon
+    2300002: Camera
+    2300004: Clock
+    2300006: Door
+    2300008: DoorEkran
+    2300010: Flomasters
+    2300012: Glass
+    2300014: Glass001
+    2300016: Glass2
+    2300018: Karkas
+    2300020: Kreslo
+    2300022: Object002
+    2300024: Plane003
+    2300026: Rozetka
+    2300028: top
+    2300030: Top Details
+    2300032: tv
+    2300034: tv karkas
+    2300036: WAll002_LOD001
+    2300038: Wall003_LOD001
+    2300040: Walltv001_LOD001
+    2300042: Window panel
+    2300044: Windows
+    2300046: WoodElements
+    2300048: Box001
+    2300050: Box002
+    2300052: Box003
+    2300054: Box004
+    2300056: Kreslo001
+    2300058: Kreslo002
+    2300060: Kreslo003
+    2300062: Kreslo004
+    2300064: Kreslo005
+    2300066: Kreslo006
+    2300068: Kreslo007
+    2300070: Mask
+    3300000: balkon
+    3300002: Camera
+    3300004: Clock
+    3300006: Door
+    3300008: DoorEkran
+    3300010: Flomasters
+    3300012: Glass
+    3300014: Glass001
+    3300016: Glass2
+    3300018: Karkas
+    3300020: Kreslo
+    3300022: Object002
+    3300024: Plane003
+    3300026: Rozetka
+    3300028: top
+    3300030: Top Details
+    3300032: tv
+    3300034: tv karkas
+    3300036: WAll002_LOD001
+    3300038: Wall003_LOD001
+    3300040: Walltv001_LOD001
+    3300042: Window panel
+    3300044: Windows
+    3300046: WoodElements
+    3300048: Box001
+    3300050: Box002
+    3300052: Box003
+    3300054: Box004
+    3300056: Kreslo001
+    3300058: Kreslo002
+    3300060: Kreslo003
+    3300062: Kreslo004
+    3300064: Kreslo005
+    3300066: Kreslo006
+    3300068: Kreslo007
+    3300070: Mask
+    4300000: Plane003
+    4300002: Windows
+    4300004: top
+    4300006: Object002
+    4300008: Top Details
+    4300010: Karkas
+    4300012: WoodElements
+    4300014: Glass001
+    4300016: Glass
+    4300018: Glass2
+    4300020: balkon
+    4300022: tv
+    4300024: tv karkas
+    4300026: Rozetka
+    4300028: Window panel
+    4300030: Kreslo
+    4300032: DoorEkran
+    4300034: Clock
+    4300036: Flomasters
+    4300038: WAll002_LOD001
+    4300040: Walltv001_LOD001
+    4300042: Wall003_LOD001
+    4300044: Door
+    4300046: Camera
+    4300048: Kreslo001
+    4300050: Kreslo002
+    4300052: Kreslo003
+    4300054: Kreslo004
+    4300056: Kreslo005
+    4300058: Kreslo006
+    4300060: Kreslo007
+    4300062: Box001
+    4300064: Box002
+    4300066: Box003
+    4300068: Box004
+    4300070: Mask
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balkon
+    second: {fileID: 2100000, guid: 045ab002b99afb541be5e85d04af405c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock
+    second: {fileID: 2100000, guid: 8e5cefa05d42a034d9066908156b6b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detail
+    second: {fileID: 2100000, guid: f56a49de015c0384381322e3038f4451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorEkran
+    second: {fileID: 2100000, guid: 6e0d61baef26a9e41a06cef8e9481eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flomasters
+    second: {fileID: 2100000, guid: 4c6715d9477bb424cad38f6f9ab1302b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: deb44e5a373e3634e9fa318cca39592f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Karkas
+    second: {fileID: 2100000, guid: 07aff280cc5f3f84f9a0fe9486caa85c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kreslo
+    second: {fileID: 2100000, guid: fa91383029e465b4d841b74ed0e455c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #103432'
+    second: {fileID: 2100000, guid: 0e05d6e5979b66e46b660605877ee3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #103444'
+    second: {fileID: 2100000, guid: 7e48de3b8eff7284bb49ba9ea5fcda77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panorama
+    second: {fileID: 2100000, guid: 8a4befca03721b749b52479a39f72a8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: f7fe4bebebee951418a7c881b7a9c35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pol
+    second: {fileID: 2100000, guid: dd82aa2c10eefbb4992712848e1a7347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rozetki
+    second: {fileID: 2100000, guid: 744607a0badb3e442a2aad28af174852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: edc488a58898e10458fd945d00891643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsPanel
+    second: {fileID: 2100000, guid: 3169991b78a92ea4dbac2d86fd8365dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 7c284e2b70d25a14cb34d2fde5b23e1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top
+    second: {fileID: 2100000, guid: d417575d677dc4f459ddfca156178e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: 8788df7a7611f614eb345bec33ac48a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv1
+    second: {fileID: 2100000, guid: 65f9144d63afada47a1c574f6670cb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv2
+    second: {fileID: 2100000, guid: d0f69b327bd49af4cb05ec5ae2c1924c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Balkon
+    second: {fileID: 2800000, guid: ee56f57e57caf294287ffb089848682b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clock
+    second: {fileID: 2800000, guid: 6555e61ec6a340b43b098677b48603c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Datail
+    second: {fileID: 2800000, guid: 11a7aab78cf3db94aabf21eb96253521, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flomasters
+    second: {fileID: 2800000, guid: aea757b376b4c724693f79fd2daac4fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grunge20
+    second: {fileID: 2800000, guid: 065fca01b12ed5d4991aecfa80e6b6e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Karkas
+    second: {fileID: 2800000, guid: 5319b91bd9f8d7a4582462f38983321a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pol
+    second: {fileID: 2800000, guid: 040e72d4b9c475547827e0431090decf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rozetki
+    second: {fileID: 2800000, guid: 49f9edb4901592d46b94a34d86308cef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stucco04
+    second: {fileID: 2800000, guid: d08f7af4c814f2f409ec594a283bd1bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_PlywoodNew0079_10_seamless_S
+    second: {fileID: 2800000, guid: 04ea42272cf06b842abe3888ab9ea831, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WindowPanel
+    second: {fileID: 2800000, guid: b826d2fc9b1ae9a4a8a29a757bac9985, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2800000, guid: 6dc6a8146e36aec408eb822983ec3c01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: doorEkran
+    second: {fileID: 2800000, guid: 78b07871a8d1db14ea72cb40fb6fd434, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kreslo
+    second: {fileID: 2800000, guid: 565eec6f6a1b1bc45821f200e3d8f7da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: top
+    second: {fileID: 2800000, guid: ca869c947c8d34c4aafea7ffd21f145d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2800000, guid: 3d81ac7d9d22467479ed780be287dff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tv1
+    second: {fileID: 2800000, guid: 520e89dd7fd1cf04cbbcbfda623defc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tv2
+    second: {fileID: 2800000, guid: f474a511f0924b04f8e00f00adc48d31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vp_sky_v1_004
+    second: {fileID: 2800000, guid: 6b7564db24c4b0c40a0083cda3967497, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
